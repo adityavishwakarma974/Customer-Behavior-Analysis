@@ -200,14 +200,8 @@ The supplied report suggests these potential business actions:
 - The reported findings should be validated by running the analysis against the dataset.
 - The SQL segmentation classifies `previous_purchases = 1` as `New`, values from 2 to 10 as `Returning`, and other values as `Loyal`, as written in the supplied SQL. Confirm that these thresholds match your intended business definitions.
 
-## Future Improvements
+🖼️ Screenshots / Demos
 
-- Add a `requirements.txt` file for reproducible dependency installation.
-- Replace machine-specific paths with configurable relative paths.
-- Move database credentials into environment variables.
-- Add dashboard screenshots or a short GIF.
-- Add automated data-quality checks and document metric definitions.
-- Add a data dictionary for all columns.
 
 ## Author
 

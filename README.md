@@ -181,7 +181,7 @@ Open `Customer behavior dashboard.pbix` in Power BI Desktop. If prompted, config
 
 ## Dashboard & Project Report
 
-The repository includes a Power BI `.pbix` dashboard file, a PowerPoint presentation, and a PDF report. Add screenshots of the dashboard to the repository if you want the README to display a preview. No screenshot is embedded in this README yet.
+The repository includes a Power BI `https://github.com/adityavishwakarma974/Customer-Behavior-Analysis/blob/main/Customer%20behavior%20dashboard.pbix` dashboard file, a PowerPoint presentation, and a PDF report. Add screenshots of the dashboard to the repository if you want the README to display a preview. No screenshot is embedded in this README yet.
 
 ## Recommendations
 

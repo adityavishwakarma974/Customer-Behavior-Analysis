@@ -137,7 +137,7 @@ pip install pandas jupyter sqlalchemy psycopg2-binary
 Place the permitted dataset file at:
 
 ```text
-data/customer_shopping_behavior.csv
+customer_shopping_behavior.csv
 ```
 
 In `customer behavior.ipynb`, update the `pd.read_csv(...)` path to match where you saved the CSV. The uploaded notebook currently uses a machine-specific Windows path, so that path will not work on other computers without modification.

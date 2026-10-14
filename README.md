@@ -201,7 +201,7 @@ The supplied report suggests these potential business actions:
 - The SQL segmentation classifies `previous_purchases = 1` as `New`, values from 2 to 10 as `Returning`, and other values as `Loyal`, as written in the supplied SQL. Confirm that these thresholds match your intended business definitions.
 
 🖼️ Screenshots / Demos
-
+https://github.com/adityavishwakarma974/Customer-Behavior-Analysis/blob/main/Customer%20behavior%20analysis.png
 
 ## Author
 

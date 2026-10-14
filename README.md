@@ -213,8 +213,4 @@ The supplied report suggests these potential business actions:
 
 ** ADITYA VISHWAKARMA**
 
-Add your name, GitHub profile, and contact links here.
-
----
-
 If you find this project useful, feel free to star the repository.
